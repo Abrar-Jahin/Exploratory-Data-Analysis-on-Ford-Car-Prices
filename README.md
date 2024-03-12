@@ -8,7 +8,7 @@ In this analysis, I explored a dataset of Ford car prices to understand various 
 ## Files
 Exploratory Data Analysis on Ford Car Prices.ipynb
 ## Dataset
-The dataset used in this analysis can be found on Kaggle: (https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction).
+The dataset used in this analysis can be found on Kaggle: (https://www.kaggle.com/).
 
 ## Libraries Used
 - Pandas
